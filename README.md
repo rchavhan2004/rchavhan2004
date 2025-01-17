@@ -45,6 +45,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rchavhan2004&show_icons=true&locale=en" alt="rchavhan2004" /></p>
 
+https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004)](https://git.io/streak-stats)
+
 <p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/api?user=rchavhan2004" alt="rchavhan2004"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004" alt="rchavhan2004"/>
 </p>
