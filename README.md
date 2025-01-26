@@ -45,6 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rchavhan2004&show_icons=true&locale=en" alt="rchavhan2004" /></p>
 
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004" alt="rchavhan2004"/>
-</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004" alt="rchavhan2004"/></p>
