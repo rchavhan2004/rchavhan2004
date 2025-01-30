@@ -46,3 +46,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rchavhan2004&show_icons=true&locale=en" alt="rchavhan2004" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rchavhan2004" alt="rchavhan2004"/></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rchavhan2004/rchavhan2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rchavhan2004/rchavhan2004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rchavhan2004/rchavhan2004/output/github-snake.svg" />
+</picture>
