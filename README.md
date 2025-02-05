@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tse4.mm.bing.net/th?id=OIP.HPSpHI3r2HMFr7FDVyP1EAAAAA&pid=Api&P=0&h=180"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/a1b7cb12-517f-4613-b29f-1e1a78fb1910" />
 
 ###
 
